@@ -1,0 +1,6 @@
+{
+    "name": "zjp/test.phpsir.com",
+    "require": {
+        "io-developer/php-whois": "^4.0"
+    }
+}
